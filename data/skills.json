@@ -1,0 +1,55 @@
+{
+	"title" : "Skills",
+	"skills1" : {
+		"C" : "70",
+		"C++" : "75",
+		"Java" : "80",
+		"Javascript" : "80",
+		"Python" : "85"
+	},
+	"skills2" : {
+		"MySQL" : "75",
+		"Oracle" : "70",
+		"MongoDB" : "80",
+		"Firebase" : "86"
+	},
+	"skills3" : {
+		"HTML5, CSS3, Bootstrap" : "85",
+		"JQuery" : "70",
+		"AngularJS" : "60",
+		"Express" : "76",
+		"Django" : "75",
+		"PHP" : "80",
+		"Node.js" : "85",
+		"React" : "75"
+	},
+	"skills4" : {
+		"Android" : "70",
+		"Numpy" : "75",
+		"Pandas" : "77",
+		"Seaborn" : "70",
+		"Matplotlib" : "80",
+		"Scikit-learn" : "80"
+		
+	}
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+

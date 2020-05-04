@@ -1,0 +1,65 @@
+{
+	"title" : "Projects",
+	"services" : [
+		{
+			"icon" : "film",
+			"title" : "Movie Preference Analysis",
+			"description" : "Exploring the MovieLens dataset to find trends associated with movie preferences",
+			"link":"https://github.com/vrushti-mody/Movie-Lens-Data-Analysis-and-Prediction"
+		},
+		{
+			"icon" : "money-check-alt",
+			"title" : "GitJobs",
+			"description" : "A job-recommendation platform to connect open-source contributors to startups and organisations.",
+			"link":"https://github.com/vrushti-mody/GitJob"
+		},
+		{
+			"icon" : "cloud",
+			"title" : "Weather Update",
+			"description" : "A weather application that gives real time weather information based on location",
+			"link":"https://theweatherapplication.herokuapp.com/"
+		}
+		,
+		{
+			"icon" : "sticky-note",
+			"title" : "Notes App",
+			"description" : "An application to maintain your todo list via command line/web app.",
+			"link":"https://todo-notesapp.herokuapp.com/todo"
+		},
+		{
+			"icon" : "user-friends",
+			"title" : "Friend.ly",
+			"description" : "A social network for connecting people with similar personalities and capture, edit & share photos, videos & messages with friends & family.",
+			"link":"http://www.getfriendly.today/"
+		},
+		{
+			"icon" : "poll",
+			"title" : "Election Result Predictor",
+			"description" : "Predicting whether the person would vote for republican or democrats based on prior data.",
+			"link":"https://github.com/vrushti-mody/Voting-Outcome"
+		},
+		{
+			"icon" : "shopping-cart",
+			"title" : "Vital care",
+			"description" : "A web-based e-commerce portal for buying, health and wellness related products and read blogs based on health.",
+			"link":"http://www.vitalcare.epizy.com/?i=1"
+		},
+		{
+			"icon" : "heartbeat",
+			"title" : "iHeart",
+			"description" : "A Machine Learning Model to Predict the risk of Heart Disease and calculate the insurance amount required ",
+			"link":"https://github.com/vrushti-mody/Insurance-Prediction"
+		},
+		{
+			"icon" : "file-medical",
+			"title" : "Droidoc",
+			"description" : "An Android Application for Medical Emergencies and a Healthy Lifestyle."
+		},
+		{
+			"icon" : "user-shield",
+			"title" : "Management Systems",
+			"description" : "Simple Password Authenticated Management System built on C++",
+			"link":"https://github.com/vrushti-mody/Airline-Reservation-System"
+		}
+	]
+}

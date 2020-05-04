@@ -1,0 +1,71 @@
+{
+	"title1" : "Achievements",
+	"experience1" : [
+		{
+			"timeperiod" : "Nov 2019 - April 2020",
+			"company" : "Winner of ET Campus Stars",
+			"website": "https://economictimes.indiatimes.com/etcampusstars",
+			"description" : "One of the winners of ET Campus Stars, an annual list of 'India's brightest engineering minds'. The 6 month long rigorous assessment was well-thought, meticulous and provided a quantifiable way of assessing over 49,000+ applicants from over 2000+ engineering colleges."
+		},
+		{
+			"timeperiod" : "March 2020",
+			"company" : "Stony Brook",
+			"description" : "Got accepted at Stony Brook University for my Masters in Computer Science , Fall 2020."
+		},
+		{
+			"timeperiod" : "February 2020",
+			"company" : "University of Massachusetts",
+			"description" : "Got accepted at University of Massachusetts, Amherst at the College of Information and Computer Sciences for my Masters in Computer Science , Fall 2020."
+		},
+		{
+			"timeperiod" : "February 2020",
+			"company" : "Rank 1 at Semicode, 2020",
+			"description" : "Tied at rank 1 at Semicode, 2020 organised by ACM MPSTME and an overall rank of 4 after considering the time of submission with over 250 teams participating."
+		},
+		{
+			"timeperiod" : "February 2020",
+			"company" : "North Carolina State University",
+			"description" : "Got accepted at North Carolina State University for my Masters in Computer Science , Fall 2020."
+		},
+		{
+			"timeperiod" : "September 2019",
+			"company" : "Winner of the IBM Hack Challenge",
+			"website": "https://www.ibm.com/in-en/university/academia-programs/events/ibm-hack-challenge/?parent=events",
+			"description" : "Winner of the IBM Hack Challenge, 2019 organised by IBM India under the problem statement- Friend Affinity Finder"
+		},
+		{
+			"timeperiod" : "March 2019",
+			"company" : "Paper Presentation",
+			"website": "https://ieeexplore.ieee.org/document/9033652",
+			"description" : "Presented my paper ‘Mental Health Monitoring System Using Artificial Intelligence at the “IEEE Sponsored 5th International Conference for Convergence in Technology (I2CT) 2019. It is published on IEEE Xplore Digital Library and indexed on Scopus."
+		},
+		{
+			"timeperiod" : "April 2018",
+			"company" : "Runner Up for App Development",
+			"description" : "Runner up (Third Place) of Android App Development Competition by Network for the Open Web Mozilla Club, 2018"
+		}
+
+	],
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "April 2020",
+			"company" : "Risk Analysis Intern at Acquisory Risk Consulting Pvt. Ltd.",
+			"website": "https://www.acquisory.com/",
+			"description" : "Performed Forensics/ Investigation Support part of Risk Analysis. Explored and Worked with Tools like Forensic Tool Kit (FTK). Submitted a project report for open source digital forensics"
+		},
+		{
+			"timeperiod" : "Dec 2017",
+			"company" : "Content and SEO Intern at Babychakra",
+			"website": "https://www.babychakra.com/",
+			"description" : "Ideated content for social media. \n Designed Creatives. \nWrote and published articles.\nData analytics using the tool Periscope and google analytics."
+		},
+		{
+			"timeperiod" : "June 2017 - July 2017",
+			"company" : "Web Development and Marketing Intern at Obino",
+			"website": "https://www.obino.in/",
+			"description" : "Ideated content for social media. \nWeb development using Wordpress. \nDeveloped a marketing calendar. \nCarried out competitive analysis.\n On call coordination for their #WomenWhoLead Campaign."
+		}
+	]
+}
+
