@@ -2,7 +2,7 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
-			"timeperiod" : "Nov 2019 - April 2020",
+			"timeperiod" : "April 2020",
 			"company" : "Winner of ET Campus Stars",
 			"website": "https://economictimes.indiatimes.com/etcampusstars",
 			"description" : "One of the winners of ET Campus Stars, an annual list of 'India's brightest engineering minds'. The 6 month long rigorous assessment was well-thought, meticulous and provided a quantifiable way of assessing over 49,000+ applicants from over 2000+ engineering colleges."
@@ -49,7 +49,7 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "April 2020",
+			"timeperiod" : "May 2018 - July 2018",
 			"company" : "Risk Analysis Intern at Acquisory Risk Consulting Pvt. Ltd.",
 			"website": "https://www.acquisory.com/",
 			"description" : "Performed Forensics/ Investigation Support part of Risk Analysis. Explored and Worked with Tools like Forensic Tool Kit (FTK). Submitted a project report for open source digital forensics"
