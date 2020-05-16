@@ -14,17 +14,17 @@
 		"Firebase" : "Firebase provided by Google is used to build scalable applications on the cloud. It is free to use, easy to integrate and works well across all platforms. Firebase can be best visualised as a JSON Object"
 	},
 	"skills3" : {
-		"HTML5, CSS3, Bootstrap" : "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins",
+		"HTML5, CSS3, Bootstrap" : "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, etc",
 		"JQuery" : "JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers",
 		"AngularJS" : "AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.",
 		"Express" : "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
-		"Django" : "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It's free and open source.",
+		"Django" : "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It takes care of much of the hassle of Web development, so you can focus on writing your app. It's free and open source.",
 		"PHP" : "PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages.",
-		"Node.js" : "Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node. js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+		"Node.js" : "Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. ",
 		"React" : "React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components."
 	},
 	"skills4" : {
-		"Android" : "Android Studio is Android's official IDE. It is purpose built for Android to accelerate your development and help you build the highest-quality apps for every Android device. It offer tools custom-tailored for Android developers, including rich code editing, debugging, testing, and profiling tools.",
+		"Android" : "Android Studio is Android's official IDE. It is purpose built for Android to accelerate your development and help you build the highest-quality apps for every Android device.",
 		"Numpy" : "NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.",
 		"Pandas" : "Pandas is one of the most widely used python libraries in data science. It provides high-performance, easy to use structures and data analysis tools.",
 		"Seaborn" : "Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.",
