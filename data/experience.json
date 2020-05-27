@@ -48,12 +48,7 @@
 	],
 	"title" : "Experience",
 	"experience" : [
-		{
-			"timeperiod" : "May 2020 - Present",
-			"company" : "Full Stack Developer",
-			"website": "http://virtuora.co.in/",
-			"description" : " Working with Nodejs, Angular and MongoDB to design, develop and debug web applications. Integrating back-end services with Angular/Nodejs based front end needs. Working with the team to manage, optimize and customize multiple web applications"
-		},
+		
 		{
 			"timeperiod" : "May 2018 - July 2018",
 			"company" : "Risk Analysis Intern at Acquisory Risk Consulting Pvt. Ltd.",
