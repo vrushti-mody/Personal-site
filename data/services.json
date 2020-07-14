@@ -2,6 +2,36 @@
 	"title" : "Projects",
 	"services" : [
 		{
+			"icon" : "suitcase",
+			"title" : "Job.Org",
+			"description" : "A portal that helps blue collar workers find jobs and live a life with dignity as a part of the PSoC Open source project",
+			"link":"#"
+		},
+		{
+			"icon" : "magic",
+			"title" : "Apply By AI",
+			"description" : "Looking for candidates that rightly match your job requirements? Let AI handle it for you.",
+			"link":"https://github.com/vrushti-mody/apply-by-ai"
+		},
+		{
+			"icon" : "cut",
+			"title" : "Rock Paper Scissors",
+			"description" : "An online multiplayer application to play the good old game rock-papers-scissors with your friends",
+			"link":"https://github.com/thealphaversion/rock-paper-scissors"
+		},
+		{
+			"icon" : "list-alt",
+			"title" : "Expensify App",
+			"description" : "An application to maintain your expenses with customizable options and an easy google sign-in option.",
+			"link":"https://github.com/vrushti-mody/Expensify-App"
+		},
+		{
+			"icon" : "thumbs-up",
+			"title" : "inDecision App",
+			"description" : "Put your life in the hands of a computer. The application makes choices for you, given a set of inputs to choose from.",
+			"link":"https://github.com/vrushti-mody/InDecision-App"
+		},
+		{
 			"icon" : "film",
 			"title" : "Movie Preference Analysis",
 			"description" : "Exploring the MovieLens dataset to find trends associated with movie preferences",
@@ -16,14 +46,14 @@
 		{
 			"icon" : "cloud",
 			"title" : "Weather Update",
-			"description" : "A weather application that gives real time weather information based on location",
+			"description" : "A weather application that gives real time weather information based on location using weather and location APIs",
 			"link":"https://theweatherapplication.herokuapp.com/"
 		}
 		,
 		{
 			"icon" : "sticky-note",
 			"title" : "Notes App",
-			"description" : "An application to maintain your todo list via command line/web app.",
+			"description" : "An application to maintain your todo list. You can do so via a command line application available on github or the web application",
 			"link":"https://todo-notesapp.herokuapp.com/todo"
 		},
 		{
@@ -40,7 +70,7 @@
 		},
 		{
 			"icon" : "shopping-cart",
-			"title" : "Vital care",
+			"title" : "Vital care E-Commerce Portal",
 			"description" : "A web-based e-commerce portal for buying, health and wellness related products and read blogs based on health.",
 			"link":"http://www.vitalcare.epizy.com/?i=1"
 		},

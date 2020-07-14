@@ -2,6 +2,12 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
+			"timeperiod" : "June 2020",
+			"company" : "PClub Summer of Code",
+			"website":"http://www.pclubsummerofcode.in/",
+			"description" : "PSoC is a 2 month long Open Source program during summers with an aim to help beginners get started with Open Source Development while encouraging diversity."
+		},
+		{
 			"timeperiod" : "April 2020",
 			"company" : "Winner of ET Campus Stars",
 			"website": "https://economictimes.indiatimes.com/etcampusstars",
@@ -46,8 +52,29 @@
 		}
 
 	],
-	"title" : "Experience",
+	"title" : "Work Experience",
 	"experience" : [
+		{
+			"timeperiod" : "June 2020 - August 2020",
+			"company" : "Junior Data Scientist",
+			"website": "https://dataasservices.com/",
+			"description" : " Worked on Neural Networks, web linking, web scraping, managed their website, made UI UX changes to the website and updated website information"
+		},
+		{
+			"timeperiod" : "June 2020 - July 2020",
+			"company" : "Web Development Intern",
+			"website": "http://personage.in/",
+			"description" : " Customised their new site for online courses (goleadthefuture), embedded videos to their site and worked on video edits and web design research"
+		},
+		
+		{
+			"timeperiod" : "May 2019 - July 2019",
+			"company" : "Web Development Intern",
+			"website": "http://virtuora.co.in/",
+			"description" : " Worked with Nodejs, Angular and MongoDB to design, develop and debug web applications. Integrated back-end services with Angular/Nodejs based front end needs. Worked with the team to manage, optimize and customize multiple web applications"
+		},
+
+
 		
 		{
 			"timeperiod" : "May 2018 - July 2018",
