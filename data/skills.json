@@ -1,35 +1,35 @@
 {
 	"title" : "Skills",
 	"skills1" : {
-		"C" : "70",
-		"C++" : "75",
-		"Java" : "80",
-		"Javascript" : "80",
-		"Python" : "85"
+		"C" : "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 and is the most widely used computer language.",
+		"C++" : "C++ is a middle-level programming language developed by Bjarne Stroustrup and runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX.",
+		"Java" : "Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.",
+		"Javascript" : "JavaScript is a lightweight, interpreted programming language. It is very easy to implement because it is integrated with HTML. It is open and cross-platform.",
+		"Python" : "Python is a powerful general-purpose programming language. It is used to develop web applications, data science, creating software prototypes and so on. Python has simple easy-to-use syntax."
 	},
 	"skills2" : {
-		"MySQL" : "75",
-		"Oracle" : "70",
-		"MongoDB" : "80",
-		"Firebase" : "86"
+		"MySQL" : "MySQL is a relational database management system based on SQL – Structured Query Language. The most common use for mySQL however, is for the purpose of a web database.",
+		"Oracle" : "Oracle is a multi-model database management system produced and marketed by Oracle Corporation. It is a database commonly used for running OLTP, data warehousing etc.",
+		"MongoDB" : "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schema. ",
+		"Firebase" : "Firebase provided by Google is used to build scalable applications on the cloud. It is free to use, easy to integrate and works well across all platforms. Firebase can be best visualised as a JSON Object"
 	},
 	"skills3" : {
-		"HTML5, CSS3, Bootstrap" : "85",
-		"JQuery" : "70",
-		"AngularJS" : "60",
-		"Express" : "76",
-		"Django" : "75",
-		"PHP" : "80",
-		"Node.js" : "85",
-		"React" : "75"
+		"HTML5, CSS3, Bootstrap" : "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, etc",
+		"JQuery" : "JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers",
+		"AngularJS" : "AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.",
+		"Express" : "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+		"Django" : "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It takes care of much of the hassle of Web development, so you can focus on writing your app. It's free and open source.",
+		"PHP" : "PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages.",
+		"Node.js" : "Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. ",
+		"React" : "React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components."
 	},
 	"skills4" : {
-		"Android" : "70",
-		"Numpy" : "75",
-		"Pandas" : "77",
-		"Seaborn" : "70",
-		"Matplotlib" : "80",
-		"Scikit-learn" : "80"
+		"Android" : "Android Studio is Android's official IDE. It is purpose built for Android to accelerate your development and help you build the highest-quality apps for every Android device.",
+		"Numpy" : "NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.",
+		"Pandas" : "Pandas is one of the most widely used python libraries in data science. It provides high-performance, easy to use structures and data analysis tools.",
+		"Seaborn" : "Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.",
+		"Matplotlib" : "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms",
+		"Scikit-learn" : "The sklearn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction"
 		
 	}
 }
