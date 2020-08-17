@@ -55,6 +55,12 @@
 	"title" : "Work Experience",
 	"experience" : [
 		{
+			"timeperiod" : "July 2020 - August 2020",
+			"company" : "Full Stack Development Intern",
+			"website": "https://www.marketingadvertisingsolution.com/",
+			"description" : " Implemented REST APIs using Node.js, Express and MongoDB and TypeScript, integrated them with the AngularJS frontend, tested the APIs and also worked on a bit of Machine Learning"
+		},
+		{
 			"timeperiod" : "June 2020 - August 2020",
 			"company" : "Junior Data Scientist",
 			"website": "https://dataasservices.com/",
