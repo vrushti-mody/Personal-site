@@ -55,11 +55,12 @@
 	"title" : "Work Experience",
 	"experience" : [
 		{
-			"timeperiod" : "July 2020 - August 2020",
-			"company" : "Full Stack Development Intern",
-			"website": "https://www.marketingadvertisingsolution.com/",
-			"description" : " Implemented REST APIs using Node.js, Express and MongoDB and TypeScript, integrated them with the AngularJS frontend, tested the APIs and also worked on a bit of Machine Learning"
+			"timeperiod" : "Sept 2020 - Present",
+			"company" : "Software Developer",
+			"website": "https://www.holosuit.com/",
+			"description" : " Working on creating an application portal for Holosuit Education."
 		},
+		
 		{
 			"timeperiod" : "June 2020 - August 2020",
 			"company" : "Junior Data Scientist",
@@ -72,10 +73,16 @@
 			"website": "http://personage.in/",
 			"description" : " Customised their new site for online courses (goleadthefuture), embedded videos to their site and worked on video edits and web design research"
 		},
+		{
+			"timeperiod" : "July 2019 - August 2019",
+			"company" : "Full Stack Development Intern",
+			"website": "https://www.marketingadvertisingsolution.com/",
+			"description" : " Implemented REST APIs using Node.js, Express and MongoDB and TypeScript, integrated them with the AngularJS frontend, tested the APIs and also worked on a bit of Machine Learning"
+		},
 		
 		{
 			"timeperiod" : "May 2019 - July 2019",
-			"company" : "Web Development Intern",
+			"company" : "Backend Development Intern",
 			"website": "http://virtuora.co.in/",
 			"description" : " Worked with Nodejs, Angular and MongoDB to design, develop and debug web applications. Integrated back-end services with Angular/Nodejs based front end needs. Worked with the team to manage, optimize and customize multiple web applications"
 		},
