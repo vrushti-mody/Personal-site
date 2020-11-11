@@ -2,6 +2,23 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
+			"timeperiod" : "November 2020",
+			"company" : "Meritorious Student",
+			"description" : "Certificate of Merit awarded for being in the top 10% of the department."
+		},
+		{
+			"timeperiod" : "October 2020",
+			"company" : "Winner of HackerEarth's Recruit-a-thon",
+			"website": "https://www.hackerearth.com/challenges/hackathon/recruit-a-thon/discussion/",
+			"description" : "Winner of the HackerEarth's Recruit-a-thon with over 4800 teams participating."
+		},
+		{
+			"timeperiod" : "October 2020",
+			"company" : "Major League Hacking Fellowship",
+			"website":"https://fellowship.mlh.io/",
+			"description" : "Got selected for the MLH Fellowship Program, a 12-week internship alternative for aspiring software engineers. It's collaborative, remote, and happens under the guidance of expert mentors."
+		},
+		{
 			"timeperiod" : "June 2020",
 			"company" : "PClub Summer of Code",
 			"website":"http://www.pclubsummerofcode.in/",
@@ -13,26 +30,13 @@
 			"website": "https://economictimes.indiatimes.com/etcampusstars",
 			"description" : "One of the winners of ET Campus Stars, an annual list of 'India's brightest engineering minds'. The 6 month long rigorous assessment was well-thought, meticulous and provided a quantifiable way of assessing over 49,000+ applicants from over 2000+ engineering colleges."
 		},
-		{
-			"timeperiod" : "March 2020",
-			"company" : "Stony Brook",
-			"description" : "Got accepted at Stony Brook University for my Masters in Computer Science , Fall 2020."
-		},
-		{
-			"timeperiod" : "February 2020",
-			"company" : "University of Massachusetts",
-			"description" : "Got accepted at University of Massachusetts, Amherst at the College of Information and Computer Sciences for my Masters in Computer Science , Fall 2020."
-		},
+	
 		{
 			"timeperiod" : "February 2020",
 			"company" : "Rank 1 at Semicode, 2020",
 			"description" : "Tied at rank 1 at Semicode, 2020 organised by ACM MPSTME and an overall rank of 4 after considering the time of submission with over 250 teams participating."
 		},
-		{
-			"timeperiod" : "February 2020",
-			"company" : "North Carolina State University",
-			"description" : "Got accepted at North Carolina State University for my Masters in Computer Science , Fall 2020."
-		},
+		
 		{
 			"timeperiod" : "September 2019",
 			"company" : "Winner of the IBM Hack Challenge",
@@ -48,7 +52,7 @@
 		{
 			"timeperiod" : "April 2018",
 			"company" : "Runner Up for App Development",
-			"description" : "Runner up (Third Place) of Android App Development Competition by Network for the Open Web Mozilla Club, 2018"
+			"description" : "Runner up (Third Place) of App Development Competition by Network for the Open Web Mozilla Club, 2018"
 		}
 
 	],
@@ -58,11 +62,11 @@
 			"timeperiod" : "Sept 2020 - Present",
 			"company" : "Software Developer",
 			"website": "https://www.holosuit.com/",
-			"description" : " Working on creating an application portal for Holosuit Education."
+			"description" : " Created and tested frontend and a micro-service architecture for the backend for Holosuit Education application portal."
 		},
 		
 		{
-			"timeperiod" : "June 2020 - August 2020",
+			"timeperiod" : "March 2020 - August 2020",
 			"company" : "Junior Data Scientist",
 			"website": "https://dataasservices.com/",
 			"description" : " Worked on Neural Networks, web linking, web scraping, managed their website, made UI UX changes to the website and updated website information"
@@ -87,8 +91,6 @@
 			"description" : " Worked with Nodejs, Angular and MongoDB to design, develop and debug web applications. Integrated back-end services with Angular/Nodejs based front end needs. Worked with the team to manage, optimize and customize multiple web applications"
 		},
 
-
-		
 		{
 			"timeperiod" : "May 2018 - July 2018",
 			"company" : "Risk Analysis Intern at Acquisory Risk Consulting Pvt. Ltd.",
