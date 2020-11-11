@@ -20,7 +20,7 @@
 			"link":"https://connectify-studyrooms.herokuapp.com/"
 		},
 		{
-			"icon" : "dropbox",
+			"icon" : "truck",
 			"title" : "Manage.In",
 			"description" : "An app to keep track of inventory with the help of intelligent refill prediction, e-bill generation and re-shelving suggestions.",
 			"link":"https://manage-in.herokuapp.com/"
