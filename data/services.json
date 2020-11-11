@@ -2,16 +2,41 @@
 	"title" : "Projects",
 	"services" : [
 		{
+			"icon" : "close",
+			"title" : "JamSpam",
+			"description" : "A Machine Learning powered GitHub App built with Probot to jam the spam PRs on your repo and keep maintainers stress-free.",
+			"link":"https://github.com/MLH-Fellowship/JamSpam"
+		},
+		{
+			"icon" : "gamepad",
+			"title" : "Ruby's Adventures",
+			"description" : "Two mini games: an infinite runner like the dino game and a twist to the conventional pacman called forest of terrors.",
+			"link":"https://rubysadventure.netlify.app/"
+		},
+		{
+			"icon" : "users",
+			"title" : "Connectify",
+			"description" : "An Online Study Room freely available to help with your motivation and make progress with your work.",
+			"link":"https://connectify-studyrooms.herokuapp.com/"
+		},
+		{
+			"icon" : "check-square-o",
+			"title" : "Manage.In",
+			"description" : "An app to keep track of inventory with the help of intelligent refill prediction, e-bill generation and re-shelving suggestions.",
+			"link":"https://manage-in.herokuapp.com/"
+		},
+		
+		{
 			"icon" : "suitcase",
 			"title" : "Job.Org",
-			"description" : "A portal that helps blue collar workers find jobs and live a life with dignity as a part of the PSoC Open source project",
-			"link":"#"
+			"description" : "A portal that helps blue collar workers find jobs and live a life with dignity as a part of the PSoC Open source project.",
+			"link":"https://github.com/vrushti-mody/Job.Org"
 		},
 		{
 			"icon" : "magic",
 			"title" : "Apply By AI",
 			"description" : "Looking for candidates that rightly match your job requirements? Let AI handle it for you.",
-			"link":"https://github.com/vrushti-mody/apply-by-ai"
+			"link":"https://applybyai.eu-gb.cf.appdomain.cloud/"
 		},
 		{
 			"icon" : "cut",
