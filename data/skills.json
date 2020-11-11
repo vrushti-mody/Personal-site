@@ -1,33 +1,18 @@
 {
 	"title" : "Skills",
 	"skills1" : {
-		"C" : "",
-		"C++" : "",
-		"Java" : "",
-		"Javascript" : "",
-		"Python" : ""
+		"C/C++ , Java, Javascript, Python" : "",
+	
 	},
 	"skills2" : {
-		"MySQL" : "",
-		"Oracle" : "",
-		"MongoDB" : "",
-		"Firebase" : ""
+		"MySQL, Oracle, SQLite, MongoDB, Firebase, CockroachDB, PostgreSQL" : "",
+		
 	},
 	"skills3" : {
-		"HTML5, CSS3, Bootstrap" : "",
-		"JQuery" : "",
-		"AngularJS" : "",
-		"Express" : "",
-		"PHP" : "",
-		"Node.js" : ""
+		"Node.js, ReactJS, AngularJS, PHP, DJango, AndriodStudio" : "",
 	},
 	"skills4" : {
-		"Android" : "",
-		"Numpy" : "",
-		"Pandas" : "",
-		"Seaborn" : "",
-		"Matplotlib" : "",
-		"Scikit-learn" : ""
+		"Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn, Pytorch, NLTK, Tensorflow " : "",
 		
 	}
 }
