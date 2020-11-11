@@ -2,7 +2,7 @@
 	"title" : "Projects",
 	"services" : [
 		{
-			"icon" : "close",
+			"icon" : "times",
 			"title" : "JamSpam",
 			"description" : "A Machine Learning powered GitHub App built with Probot to jam the spam PRs on your repo and keep maintainers stress-free.",
 			"link":"https://github.com/MLH-Fellowship/JamSpam"
@@ -20,7 +20,7 @@
 			"link":"https://connectify-studyrooms.herokuapp.com/"
 		},
 		{
-			"icon" : "check-square-o",
+			"icon" : "dropbox",
 			"title" : "Manage.In",
 			"description" : "An app to keep track of inventory with the help of intelligent refill prediction, e-bill generation and re-shelving suggestions.",
 			"link":"https://manage-in.herokuapp.com/"
