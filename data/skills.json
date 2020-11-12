@@ -15,9 +15,7 @@
 		"Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn, Pytorch, NLTK, Tensorflow " : "",
 		
 	}
-	"skills5" : {
-		"Cypress, Jest, Docker, Git, Docker " : "",
-	}
+	
 }
 
 
