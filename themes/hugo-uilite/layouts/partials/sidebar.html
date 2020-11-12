@@ -19,7 +19,7 @@
       {{ end }}
 
       {{ range $key, $value := $socialfas }}
-        <a target="_blank" href="{{ $value }}">
+        <a target="_blank" href="{{ $value }}" download>
           <i class="fas fa-{{ $key }}"></i>
         </a>
       {{ end }}
