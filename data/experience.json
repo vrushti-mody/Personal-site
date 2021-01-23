@@ -2,6 +2,12 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
+			"timeperiod" : "January 2021",
+			"company" : "Mentor at SWOC",
+\			"website": "https://swoc.tech/",
+			"description" : "Accepted as a mentor for Script Winter of Code (SWOC) to guide three teams with my insights and experience all through their hackathon journey."
+		},
+		{
 			"timeperiod" : "November 2020",
 			"company" : "Meritorious Student",
 			"description" : "Certificate of Merit awarded for being in the top 10% of the department."
