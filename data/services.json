@@ -8,7 +8,7 @@
 			"link":"https://testsfront.herokuapp.com/"
 		},
 		{
-			"icon" : "trophy",
+			"icon" : "gavel",
 			"title" : "Code of Duty",
 			"description" : "Gamified Sprint System - Making Open Source Contribution and Team Collaboration Fun!",
 			"link":"https://github.com/MLH-Fellowship/CodeOfDuty"
