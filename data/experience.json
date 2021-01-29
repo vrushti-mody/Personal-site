@@ -28,25 +28,25 @@
 			"timeperiod" : "September 2020",
 			"company" : "Paper Presentation",
 			"website":"https://ieeexplore.ieee.org/document/9215288",
-			"description" : "Presented my paper ‘Distress - An application for Emergency Response and Disaster Management' at the '(International Conference on Smart Electronics and Communication (ICOSEC) 2020'. It is published on IEEE Xplore Digital Library and indexed on Scopus."
+			"description" : "Presented my paper ‘Distress - An application for Emergency Response and Disaster Management' at the 'International Conference on Smart Electronics and Communication (ICOSEC) 2020'. It is published on IEEE Xplore Digital Library and indexed on Scopus."
 		},
 		{
 			"timeperiod" : "September 2020",
 			"company" : "Paper Presentation",
 			"website":"https://ieeexplore.ieee.org/document/9215299",
-			"description" : "Presented my paper ‘A study on existing Friend Recommendation Systems in Social Networks' at the '(International Conference on Smart Electronics and Communication (ICOSEC) 2020'. It is published on IEEE Xplore Digital Library and indexed on Scopus."
+			"description" : "Presented my paper ‘A study on existing Friend Recommendation Systems in Social Networks' at the 'International Conference on Smart Electronics and Communication (ICOSEC) 2020'. It is published on IEEE Xplore Digital Library and indexed on Scopus."
 		},
 		{
 			"timeperiod" : "June 2020",
-			"company" : "PClub Summer of Code",
+			"company" : "Student Developer at PSoC",
 			"website":"http://www.pclubsummerofcode.in/",
-			"description" : "PSoC is a 2 month long Open Source program during summers with an aim to help beginners get started with Open Source Development while encouraging diversity."
+			"description" : "PClub Summer of Code is a 2 month long Open Source program during summers with an aim to help beginners get started with Open Source Development while encouraging diversity."
 		},
 		{
 			"timeperiod" : "June 2020",
 			"company" : "Paper Presentation",
 			"website":"https://ieeexplore.ieee.org/document/9225492",
-			"description" : "Presented my paper ‘A study on Cloud enabled Applications and their Security Issues' at the '11th International Conference on Computing, Communication & Networking Technologies (ICCCNT) 2020'. It is published on IEEE Xplore Digital Library and indexed on Scopus."
+			"description" : "Presented my paper ‘A study on Cloud enabled Applications and their Security Issues' at the 11th International Conference on Computing, Communication & Networking Technologies (ICCCNT) 2020. It is published on IEEE Xplore Digital Library and indexed on Scopus."
 		},
 		{
 			"timeperiod" : "April 2020",
@@ -71,12 +71,12 @@
 			"timeperiod" : "March 2019",
 			"company" : "Paper Presentation",
 			"website": "https://ieeexplore.ieee.org/document/9033652",
-			"description" : "Presented my paper ‘Mental Health Monitoring System Using Artificial Intelligence at the “IEEE Sponsored 5th International Conference for Convergence in Technology (I2CT) 2019. It is published on IEEE Xplore Digital Library and indexed on Scopus."
+			"description" : "Presented my paper ‘Mental Health Monitoring System Using Artificial Intelligence at the IEEE Sponsored 5th International Conference for Convergence in Technology (I2CT) 2019. It is published on IEEE Xplore Digital Library and indexed on Scopus.'
 		},
 		{
 			"timeperiod" : "April 2018",
 			"company" : "Runner Up for App Development",
-			"description" : "Runner up (Third Place) of App Development Competition by Network for the Open Web Mozilla Club, 2018"
+			"description" : "Runner up (Third Place) of Application Development Competition by Network for the Open Web Mozilla Club, 2018"
 		}
 
 	],
