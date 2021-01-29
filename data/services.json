@@ -2,13 +2,13 @@
 	"title" : "Projects",
 	"services" : [
 		{
-			"icon" : "gratipay",
+			"icon" : "heart",
 			"title" : "Good Vibes Only",
 			"description" : "The Good News Network app delivers daily positive news from around the world. Our ‘News to Enthuse’ is like Vitamin G for the spirit.",
 			"link":"https://testsfront.herokuapp.com/"
 		},
 		{
-			"icon" : "handshake-o",
+			"icon" : "github",
 			"title" : "Code of Duty",
 			"description" : "Gamified Sprint System - Making Open Source Contribution and Team Collaboration Fun!",
 			"link":"https://github.com/MLH-Fellowship/CodeOfDuty"
