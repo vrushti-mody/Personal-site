@@ -2,6 +2,12 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
+			"timeperiod" : "February 2021",
+			"company" : "Winner of WiCHacks 2021",
+			"website": "https://devpost.com/software/wanda-r2tqsu",
+			"description" : "One of the winner of the WiCHacks with over 100 participants."
+		},
+		{
 			"timeperiod" : "January 2021",
 			"company" : "Mentor at SWOC",
 			"website": "https://swoc.tech/",
