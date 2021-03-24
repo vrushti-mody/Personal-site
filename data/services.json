@@ -2,6 +2,12 @@
 	"title" : "Projects",
 	"services" : [
 		{
+			"icon" : "graduation-cap",
+			"title" : "Wanda",
+			"description" : "Wanda is built on the idea to decrease isolation and motivate us all not only to progress our work but know we can do so while our simple presence supports others.",
+			"link":"https://wanda-vision.herokuapp.com/"
+		},
+		{
 			"icon" : "heart",
 			"title" : "Good Vibes Only",
 			"description" : "The Good News Network app delivers daily positive news from around the world. Our ‘News to Enthuse’ is like Vitamin G for the spirit.",
