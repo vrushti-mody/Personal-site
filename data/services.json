@@ -2,6 +2,12 @@
 	"title" : "Projects",
 	"services" : [
 		{
+			"icon" : "medkit",
+			"title" : "Medi.co",
+			"description" : "Medi.co aims to make the appointment booking process seamless and create a community to educate users with the help of health tips, first aid advice, fitness tips! ",
+			"link":"https://medi-co.herokuapp.com/"
+		},
+		{
 			"icon" : "heartbeat",
 			"title" : "The Health Corner",
 			"description" : "If you start by incorporating small changes into your daily habits, you can create lasting, healthy eating habits. The Health Corner wants to help you do just that!",
