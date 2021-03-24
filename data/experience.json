@@ -2,6 +2,12 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
+			"timeperiod" : "March 2021",
+			"company" : "Winner of InnoHacks 2021",
+			"website": "https://devpost.com/software/apply-by-ai",
+			"description" : "One of the winners of InnoHacks 2021, under the problem statement: To Build an A.I. based software solution/Technological with the aim of tackling some challenges currently posed by modern society with over 50 participants."
+		},
+		{
 			"timeperiod" : "February 2021",
 			"company" : "Winner of WiCHacks 2021",
 			"website": "https://devpost.com/software/wanda-r2tqsu",
