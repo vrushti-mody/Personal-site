@@ -60,7 +60,7 @@
 			"icon" : "list-alt",
 			"title" : "Expensify App",
 			"description" : "An application to maintain your expenses with customizable options and an easy google sign-in option.",
-			"link":"https://github.com/vrushti-mody/Expensify-App"
+			"link":"https://expensify-expense-app.herokuapp.com/"
 		},
 		{
 			"icon" : "thumbs-up",
