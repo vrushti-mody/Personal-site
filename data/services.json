@@ -2,6 +2,12 @@
 	"title" : "Projects",
 	"services" : [
 		{
+			"icon" : "heartbeat",
+			"title" : "The Health Corner",
+			"description" : "If you start by incorporating small changes into your daily habits, you can create lasting, healthy eating habits. The Health Corner wants to help you do just that!",
+			"link":"https://thehealthcorner.herokuapp.com/"
+		},
+		{
 			"icon" : "graduation-cap",
 			"title" : "Wanda",
 			"description" : "Wanda is built on the idea to decrease isolation and motivate us all not only to progress our work but know we can do so while our simple presence supports others.",
