@@ -2,17 +2,30 @@
 	"title" : "Projects",
 	"services" : [
 		{
+			"icon" : "paper-plane",
+			"title" : "Colour Me",
+			"description" : "Photos provide a unique view into the lives of our ancestors and relatives, but viewing them in black and white places them at a certain distance. Colour photos in just one single step",
+			"link":"https://github.com/vrushti-mody/Colour-Me"
+		},
+		{
+			"icon" : "paper-plane",
+			"title" : "Best Surprise",
+			"description" : "Letters are a timeless classic. Do we really think we’ll one day read texts with that same feeling of longing? Send your personal letters to your loved ones instantly!",
+			"link":"https://best-surprise.herokuapp.com/"
+		},
+		{
+			"icon" : "heartbeat",
+			"title" : "HealthHub",
+			"description" : "If you start by incorporating small changes into your daily habits, you can create lasting, healthy eating habits. HealthHub wants to help you do just that!",
+			"link":"https://the-health-hub.herokuapp.com/"
+		},
+		{
 			"icon" : "medkit",
 			"title" : "Medi.co",
 			"description" : "Medi.co aims to make the appointment booking process seamless and create a community to educate users with the help of health tips, first aid advice, fitness tips! ",
 			"link":"https://medi-co.herokuapp.com/"
 		},
-		{
-			"icon" : "heartbeat",
-			"title" : "The Health Corner",
-			"description" : "If you start by incorporating small changes into your daily habits, you can create lasting, healthy eating habits. The Health Corner wants to help you do just that!",
-			"link":"https://thehealthcorner.herokuapp.com/"
-		},
+		
 		{
 			"icon" : "graduation-cap",
 			"title" : "Wanda",
