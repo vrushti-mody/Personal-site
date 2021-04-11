@@ -2,6 +2,24 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
+			"timeperiod" : "April 2021",
+			"company" : "Winner of Hack from the Past",
+			"website": "https://devpost.com/software/colour-me",
+			"description" : "Winner of Major League Hacking's (MLH) Hack from the Past, retro themed hack among 50+ teams"
+		},
+		{
+			"timeperiod" : "April 2021",
+			"company" : "Winner of Surprise Hacks",
+			"website": "https://devpost.com/software/best-surprise",
+			"description" : "Winner of Major League Hacking's (MLH) Surprise Hacks, surprise themed hack among 180+ participants"
+		},
+		{
+			"timeperiod" : "April 2021",
+			"company" : "Winner of Sparkathon 2021",
+			"website": "https://devfolio.co/submissions/healthhub-055c",
+			"description" : "Winner of NMIMS’s Sparakthon for their Ignite 3.0 Tech fest among 200+ participants"
+		},
+		{
 			"timeperiod" : "March 2021",
 			"company" : "Winner of InnoHacks 2021",
 			"website": "https://devpost.com/software/apply-by-ai",
