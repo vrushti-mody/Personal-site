@@ -2,6 +2,12 @@
 	"title1" : "Achievements",
 	"experience1" : [
 		{
+			"timeperiod" : "August 2021",
+			"company" : "IIIT Hyderabad",
+			"website": "https://devpost.com/software/colour-me",
+			"description" : "Got selected to be a part of the 5th Summer School on Artificial Intelligence With focus on Computer Vision & Machine Learning"
+		},
+		{
 			"timeperiod" : "April 2021",
 			"company" : "Winner of Hack from the Past",
 			"website": "https://devpost.com/software/colour-me",
