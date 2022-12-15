@@ -119,7 +119,19 @@
 	"title" : "Work Experience",
 	"experience" : [
 		{
-			"timeperiod" : "Sept 2020 - Present",
+			"timeperiod" : "May 2021 - Sept 2021",
+			"company" : "BitGo Inc.",
+			"website": "https://www.bitgo.com/",
+			"description" : "Wrote Billing APIs using Node.js, MongoDB, SnowflakeDB and AWS to effectively store and retrieve billing reports that reduced computation (recalculation) cost by 100% and also helped with debugging issues in bills generated. Refactored code in large files with around 1000 lines by code by breaking them into smaller files and helper files, typescriptifying them and optimising its functions."
+		},
+		{
+			"timeperiod" : "Aug 2020 - May 2021",
+			"company" : "Reich Lab",
+			"website": "https://reichlab.io/",
+			"description" : "Wrote, documented, and tested custom continuous integration validations using Python. Worked on developing models for projections of COVID-19, in standardized format. (funded by CDC)"
+		},
+		{
+			"timeperiod" : "June 2020 - May 2021",
 			"company" : "Software Developer",
 			"website": "https://www.holosuit.com/",
 			"description" : " Created and tested frontend and a micro-service architecture for the backend for Holosuit Education application portal."
