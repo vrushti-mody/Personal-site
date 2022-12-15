@@ -120,26 +120,26 @@
 	"experience" : [
 		{
 			"timeperiod" : "May 2021 - Sept 2021",
-			"company" : "BitGo Inc.",
+			"company" : "Software Engineer Intern",
 			"website": "https://www.bitgo.com/",
 			"description" : "Wrote Billing APIs using Node.js, MongoDB, SnowflakeDB and AWS to effectively store and retrieve billing reports that reduced computation (recalculation) cost by 100% and also helped with debugging issues in bills generated. Refactored code in large files with around 1000 lines by code by breaking them into smaller files and helper files, typescriptifying them and optimising its functions."
 		},
 		{
 			"timeperiod" : "Aug 2020 - May 2021",
-			"company" : "Reich Lab",
+			"company" : "Research Assistant",
 			"website": "https://reichlab.io/",
 			"description" : "Wrote, documented, and tested custom continuous integration validations using Python. Worked on developing models for projections of COVID-19, in standardized format. (funded by CDC)"
 		},
 		{
 			"timeperiod" : "June 2020 - May 2021",
-			"company" : "Software Developer",
+			"company" : "Software Engineer",
 			"website": "https://www.holosuit.com/",
 			"description" : " Created and tested frontend and a micro-service architecture for the backend for Holosuit Education application portal."
 		},
 		
 		{
 			"timeperiod" : "March 2020 - August 2020",
-			"company" : "Junior Data Scientist",
+			"company" : "Junior Data Scientist Intern",
 			"website": "https://dataasservices.com/",
 			"description" : " Worked on Neural Networks, web linking, web scraping, managed their website, made UI UX changes to the website and updated website information"
 		},
